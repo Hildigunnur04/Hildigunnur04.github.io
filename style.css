@@ -10,14 +10,20 @@ body {
   font-family: Georgia, serif;
   font-size: 22px;
   padding-left: 15px;
+  padding-right: 15px
 }
 
 h1 {
   background-color: #8D9B6A;
   color: #FFFFFF;
   font-style: bold;
-  font-size: 55px;
+  font-size: 60px;
   text-align: center;
+  padding: 25px;
+}
+
+img {
+  float: right;
 }
 
 h2 {
@@ -31,7 +37,6 @@ h2 {
 a {
   color: #8A9EA7;
   font-size: 20px;
-  padding-left: 15px;
 }
 
 a:hover {
