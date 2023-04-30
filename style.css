@@ -20,6 +20,10 @@ h1 {
   text-align: center;
 }
 
+img {
+  float: right;
+}
+
 h2 {
   background-color: #8D9B6A;
   color: #FFFFFF;
