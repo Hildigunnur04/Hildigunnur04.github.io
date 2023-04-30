@@ -4,17 +4,12 @@ Til þess að læra að gera eitthvað, prófaðu að leita á google af því s
 "how to change link color." */
 
 
-@import url('https://fonts.cdnfonts.com/css/curlz');
-
-html{
-}
-
-
 body {
   background-color: #F3DFC9; 
   color: #8F5B34;
   font-family: Georgia, serif;
   font-size: 24px;
+  padding-left: 15px;
 }
 
 h1 {
@@ -22,6 +17,7 @@ h1 {
   color: #FFFFFF;
   font-style: bold;
   font-size: 55px;
+  text-align: center;
 }
 
 h2 {
@@ -29,11 +25,13 @@ h2 {
   color: #FFFFFF;
   font-style: bold;
   font-size: 32px;
+  text-align: center;
 }
 
 a {
   color: #8A9EA7;
   font-size: 20px;
+  padding-left: 15px;
 }
 
 a:hover {
