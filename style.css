@@ -11,35 +11,35 @@ html{
 
 
 body {
-  background-color: #FFFFFF; 
-  color: #1C2969;
+  background-color: #E8DFE0; 
+  color: #8F5B34;
   font-family: Georgia, serif;
-  font-size: 30px;
+  font-size: 26px;
 }
 
 h1 {
+  background-color: #8D9B6A;
   color: #FFFFFF;
-  background-color: #015EA0;
   font-style: bold;
-  font-size: 300%;
+  font-size: 40px;
 }
 
 h2 {
-  color: #00FFFF;
-  font-style: oblique;
-  text-align: center;
-  border: 3px solid green;
+  background-color: #8D9B6A;
+  color: #FFFFFF;
+  font-style: bold;
+  font-size: 32px;
 }
 
 a {
-  font-family: Comic sans ms;
-  color: #AAAAFF;
+  color: #8A9EA7;
+  font-size: 20px;
 }
 
 a:hover {
-  color: #000000;
+  color: #8F5B34;
 }
 
 ul {
-  background-color: #FFFFFF;
+  background-color: #E8DFE0;
 }
