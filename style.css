@@ -7,10 +7,9 @@ Til þess að læra að gera eitthvað, prófaðu að leita á google af því s
 body {
   background-color: #F3DFC9; 
   color: #8F5B34;
-  font-family: Georgia, serif;
+  font-family: Georgia;
   font-size: 22px;
-  padding-left: 15px;
-  padding-right: 15px
+  margin: 15px;
 }
 
 h1 {
@@ -28,6 +27,9 @@ img {
 
 h2 {
   background-color: #8D9B6A;
+  display: inline-block;
+  width: 450px;
+  height: 150px;
   color: #FFFFFF;
   font-style: bold;
   font-size: 36px;
@@ -40,7 +42,7 @@ a {
 }
 
 a:hover {
-  color: #8F5B34;
+  color: #593E31;
 }
 
 ul {
