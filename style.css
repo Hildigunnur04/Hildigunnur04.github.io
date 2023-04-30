@@ -11,7 +11,7 @@ body {
   font-size: 22px;
   margin: 25px;
   padding-right: 25px;
-  padding-right:
+  padding-right: 25px;
 }
 
 h1 {
@@ -31,7 +31,7 @@ h2 {
   background-color: #8D9B6A;
   display: inline-block;
   width: 850px;
-  height: 50px;
+  height: 100px;
   color: #FFFFFF;
   font-style: bold;
   font-size: 36px;
