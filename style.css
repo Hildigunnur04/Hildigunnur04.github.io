@@ -56,5 +56,6 @@ ul {
 }
 
 #hægri {
-  text-align: right;
+  float: left;
+  padding-right: 600px;
 }
