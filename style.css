@@ -57,13 +57,13 @@ ul {
 
 #floatLeft {
   float: left;
-  margin-top: 20px;
+  margin-top: 5px;
   margin-left:10px;
 }
 
 #floatRight {
   float: right;
-  margin-top: 20px;
-  margin-right: 100px;
+  margin-top: 5px;
+  margin-right: 150px;
 }
 
