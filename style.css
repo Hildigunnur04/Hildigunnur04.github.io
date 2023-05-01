@@ -3,15 +3,15 @@ innihledsins. En sjálft innihald síðunnar er í HTML kóðanum.
 Til þess að læra að gera eitthvað, prófaðu að leita á google af því sem þú vilt vita, til dæmis:
 "how to change link color." */
 
+html {
+  margin: 30px;
+}
 
 body {
   background-color: #F3DFC9; 
   color: #8F5B34;
   font-family: Georgia;
   font-size: 22px;
-  margin: 25px;
-  padding-right: 25px;
-  padding-right: 25px;
 }
 
 h1 {
