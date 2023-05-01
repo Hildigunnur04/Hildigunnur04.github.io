@@ -31,7 +31,8 @@ h2 {
   background-color: #8D9B6A;
   display: inline-block;
   width: 850px;
-  height: 100px;
+  height: 60px;
+  padding: 20px;
   color: #FFFFFF;
   font-style: bold;
   font-size: 36px;
