@@ -55,7 +55,11 @@ ul {
   background-color: #F3DFC9;
 }
 
+#vinstri {
+  display: inline-block;
+  width: 600px
+}
+
 #hægri {
-  float: left;
-  padding-right: 600px;
+  float: left
 }
