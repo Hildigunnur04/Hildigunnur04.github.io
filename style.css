@@ -55,13 +55,13 @@ ul {
   background-color: #F3DFC9;
 }
 
-#hlidvidhlid {
-  background-color: #593E31;
-  display: inline-block;
-  width: 600px;
+#floatLeft {
+  float: left;
+  margin: 40px;
 }
 
-#float {
+#floatRight {
   float: right;
+  margin: 40px;
 }
 
